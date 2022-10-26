@@ -4,8 +4,106 @@ title: Publications
 ---
 
 2020
-* **Tandem Assessment of Spoofing Countermeasures and Automatic Speaker Verification: Fundamentals**
- 
-Tomi Kinnunen, **Héctor Delgado**, Nicholas Evans, Kong Aik Lee, Ville Vestman, Andreas Nautsch, Massimiliano Todisco, Xin Wang, Md Sahidullah, Junichi Yamagishi, Douglas A. Reynolds, in _IEEE/ACM Transactions on Audio, Speech and Language._ [[PDF]](https://arxiv.org/abs/2007.05979)
+* **Tandem Assessment of Spoofing Countermeasures and Automatic Speaker Verification: Fundamentals.** Tomi Kinnunen, Héctor Delgado, Nicholas Evans, Kong Aik Lee, Ville Vestman, Andreas Nautsch, Massimiliano Todisco, Xin Wang, Md Sahidullah, Junichi Yamagishi, Douglas A. Reynolds, in _IEEE/ACM Transactions on Audio, Speech and Language._ [[arXiv.org]](https://arxiv.org/abs/2007.05979)
 
-TBC
+* **ASVspoof 2019: a large-scale public database of synthetized, converted and replayed speech.** Xin Wang, Junichi Yamagishi, Massimiliano Todisco, Héctor Delgado, Andreas Nautsch, Nicholas Evans, Md Sahidullah, Ville Vestman, Tomi Kinnunen, Kong Aik Lee, Lauri Juvela, Paavo Alku, Yu-Huai Peng, Hsin-Te Hwang, Yu Tsao, Hsin-Min Wang, Sebastien Le Maguer, Markus Becker, Fergus Henderson, Rob Clark, Yu Zhang, Quan Wang, Ye Jia, Kai Onuma, Koji Mushika, Takashi Kaneda, Yuan Jiang, Li-Juan Liu, Yi-Chiao Wu, Wen-Chin Huang, Tomoki Toda, Kou Tanaka, Hirokazu Kameoka, Ingmar Steiner, Driss Matrouf, Jean-Francois Bonastre, Avashna Govender, Srikanth Ronanki, Jing-Xuan Zhang, Zhen-Hua Ling, in _Computer, Speech & Language_. [[arXiv.org]](https://arxiv.org/abs/1911.01601)
+
+2019
+
+* **I4U Submission to NIST SRE 2018: Leveraging from a Decade of Shared Experiences.** Kong Aik Lee, Ville Hautamäki, Tomi H. Kinnunen, Hitoshi Yamamoto, Koji Okabe, Ville Vestman, Jing Huang, Guohong Ding, Hanwu Sun, Anthony Larcher, Rohan Kumar Das, Haizhou Li, Mickael Rouvier, Pierre-Michel Bousquet, Wei Rao, Qing Wang, Chunlei Zhang, Fahimeh Bahmaninezhad, Héctor Delgado, Massimiliano Todisco, in proc. _INTERSPEECH 2019, Graz, Austria_. [PDF]
+
+* **ASVspoof 2019: Future Horizons in Spoofed and Fake Audio Detection.** Massimiliano Todisco, Xin Wang, Ville Vestman, Md. Sahidullah, Héctor Delgado, Andreas Nautsch, Junichi Yamagishi, Nicholas Evans, Tomi Kinnunen, Kong Aik Lee, in proc. _INTERSPEECH 2019, Graz, Austria_. [PDF]
+
+* **Preserving Privacy in Speaker and Speech Characterisation.** Andreas Nautsch, Abelino Jiménez, Amos Treiber, Jascha Kolberg, Catherine Jasserand, Els Kindt, Héctor Delgado, Massimiliano Todisco, Mohamed Amine Hmani, Aymen Mtibaa, Mohammed Ahmed Abdelraheem, Alberto Abad, Francisco Teixeira, Driss Matrouf, Marta Gomez-Barrero, Dijana Petrovska-Delacrétaz, Gérard Chollet, Nicholas Evans, Thomas Schneider, Jean-François Bonastre, Bhiksha Raj, Isabel Trancoso, Christoph Busch, in _Computer Speech & Language_. [PDF]
+
+* **Introduction to Voice Presentation Attack Detection and Recent Advances.** Md Sahidullah, Héctor Delgado, Massimiliano Todisco, Tomi Kinnunen, Nicholas Evans, Junichi Yamagishi, Kong-Aik Lee, book chapter in _Handbook of biometric anti-Spoofing. Presentation attack detection_, [PDF]
+
+2018
+
+* **ODESSA at Albayzin Speaker Diarization Challenge 2018.** Jose Patino, Héctor Delgado, Ruiqing Yin, Hervé Bredin, Claude Barras, Nicholas Evans, in proc. _IberSPEECH 2018, Barcelona, Spain_. [PDF]
+
+* **ODESSA/PLUMCOT at Albayzin Multimodal Diarization Challenge 2018.** Benjamin Maurice, Hervé Bredin, Ruiqing Yin, Jose Patino, Héctor Delgado, Claude Barras, Nicholas Evans, Camille Guinaudeau, in proc. _IberSPEECH 2018, Barcelona, Spain_. [PDF]
+
+* **Enhanced low-latency speaker spotting using selective cluster enrichment** Jose Patino, Héctor Delgado and Nicholas Evans, in proc. _International Conference of the Biometrics Special Interest Group (BIOSIG 2018), Darmstadt, Germany_. [PDF]
+
+* **The EURECOM submission to the first DIHARD Challenge.** Jose Patino, Héctor Delgado and Nicholas Evans, in proc. _INTERSPEECH 2018, Hyderabad, India_. [PDF]
+
+* **Integrated presentation attack detection and automatic speaker verification: common features and Gaussian back-end fusion.** Massimiliano Todisco, Héctor Delgado, Kong Aik Lee, Md Sahidullah, Nicholas Evans, Tomi Kinnunen and Junichi Yamagishi, in proc. _INTERSPEECH 2018, Hyderabad, India_. [PDF]
+
+* **Speech database and protocol validation using waveform entropy.** Itshak Lapidot, Héctor Delgado, Massimiliano Todisco, Nicholas Evans and Jean-François Bonastre, in proc. _INTERSPEECH 2018, Hyderabad, India_. [PDF]
+
+* **ASVspoof 2017 Version 2.0: meta-data analysis and baseline enhancements.** Héctor Delgado, Massimiliano Todisco, Md Sahidullah, Nicholas Evans, Tomi Kinnunen, Kong Aik Lee and Junichi Yamagishi, in proc. _ODYSSEY 2018 – The Speaker and Language Recognition Workshop, Les Sables d’Olonne, France_. [PDF]
+
+* **Low-latency speaker spotting with online diarization and detection.** Jose Patino, Ruiqing Yin, Héctor Delgado, Hervé Bredin, Alain Komaty, Guillaume Wisniewski, Claude Barras, Nicholas Evans and Sébastien Marcel, in proc. _ODYSSEY 2018 – The Speaker and Language Recognition Workshop, Les Sables d’Olonne, France_. [PDF]
+
+* **An end-to-end spoofing countermeasure for automatic speaker verification using evolving recurrent neural networks.** Giacomo Valenti, Héctor Delgado, Massimiliano Todisco, Nicholas Evans and Laurent Pilati, in proc. _ODYSSEY 2018 – The Speaker and Language Recognition Workshop, Les Sables d’Olonne, France_. [PDF]
+
+* **t-DCF: a detection cost function for the tandem assessment of spoofing countermeasures and automatic speaker verification.** Tomi Kinnunen, Kong Aik Lee, Héctor Delgado, Nicholas Evans, Massimiliano Todisco, Md Sahidullah, Junichi Yamagishi and Douglas A. Reynolds, in proc. _ODYSSEY 2018 – The Speaker and Language Recognition Workshop, Les Sables d’Olonne, France_. [PDF]
+
+2017
+
+* **Speaker change detection using binary key modelling with contextual information.** Jose Patino, Héctor Delgado and Nicholas Evans, in proc. _International Conference on Statistical Language and Speech Processing (SLSP), Le Mans, France_. [PDF]
+
+* **Impact of bandwidth and channel variation on presentation attack detection for speaker verification.** Héctor Delgado, Massimiliano Todisco, Nicholas Evans, Md Sahidullah, Wei Ming Liu, Federico Alegre, Tomi Kinnunen and Benoit Fauve, in proc. _International Conference of the Biometrics Special Interest Group (BIOSIG 2017), Darmstadt, Germany_. [PDF]
+
+* **The I4U mega fusion and collaboration for NIST speaker recognition evaluation 2016.** K. A. Lee, V. Hautamäki, T. Kinnunen, A. Larcher, C. Zhang, A. Nautsch, T. Stafylakis, G. Liu, M. Rouvier, W. Rao, F. Alegre, J. Ma, M. W. Mak, A. K. Sarkar, H. Delgado, R. Saeidi, H. Aronowitz, A. Sizov, H. Sun, T. H. Nguyen, G. Wang, B. Ma, V. Vestman, M. Sahidullah, M. Halonen, A. Kanervisto, G. Le Lan, F. Bahmaninezhad, S. Isadskiy, C. Rathgeb, C. Busch, G. Tzimiropoulos, Q. Qian, Z. Wang, Q. Zhao, T. Wang, H. Li, J. Xue, S. Zhu, R. Jin, T. Zhao, P.-M. Bousquet, M. Ajili, W. B. Kheder, D. Matrouf, Z. H. Lim, C. Xu, H. Xu, X. Xiao, E. S. Chng, B. Fauve, K. Sriskandaraja, V. Sethu, W. W. Lin, D. A. L. Thomsen, Z.-H. Tan, M. Todisco, N. Evans, H. Li, J. H. L. Hansen, J.-F. Bonastre and E. Ambikairajah, in proc. _INTERSPEECH 2017, Stockholm, Sweden_. [PDF]
+
+* **The ASVspoof 2017 challenge: Assessing the limits of replay spoofing attack detection.** Tomi Kinnunen, Md Sahidullah, Héctor Delgado, Massimiliano Todisco, Nicholas Evans, Junichi Yamagishi, Kong Aik Lee, in proc. _INTERSPEECH 2017, Stockholm, Sweden_. [PDF]
+
+* **Constant Q cepstral coefficients: a spoofing countermeasure for automatic speaker verification.** Massimiliano Todisco, Héctor Delgado and Nicholas Evans, in _Computer Speech & Language_. [PDF]
+
+* **ASVspoof: the automatic speaker verification spoofing and countermeasures challenge.** Zhizheng Wu, Junichi Yamagishi, Tomi Kinnunen, Cemal Hanilçi, Md Sahidullah, Aleksandr Sizov, Nicholas Evans, Massimiliano Todisco and Héctor Delgado, in _IEEE Journal of Selected Topics in Signal Processing (JSTSP)_. [PDF]
+
+* **RedDots Replayed: A New Replay Spoofing Attack Corpus for Text-dependent Speaker Verification Research.** Tomi Kinnunen, Md Sahidullah, Mauro Falcone, Luca Costantini, Rosa González Hautamaki, Dennis Thomsen, Achintya Sarkar, Zheng-Hua Tan, Héctor Delgado, Massimiliano Todisco, Nicholas Evans, Ville Hautamäki, Kong Aik Lee, in proc. _ICASSP 2017, New Orleans, USA_. [PDF]
+
+2016
+
+* **EURECOM submission to the Albayzin 2016 Speaker Diarization Evaluation.** Jose Patino, Héctor Delgado, Nicholas Evans, Xavier Anguera, in proc. _IberSPEECH 2016, Lisbon, Portugal_. [PDF]
+
+* **Further optimisations of constant Q cepstral processing for integrated utterance verification and text-dependent speaker verification.** Héctor Delgado, Massimiliano Todisco, Md Sahidullah, Achintya K. Sarkar, Nicholas Evans, Tomi Kinnunen, Zheng-Hua Tan, in proc. _IEEE Spoken Language Technology workshop SLT 2016, San Diego, USA_. [PDF]
+
+* **Articulation rate filtering of CQCC features for automatic speaker verification.** Massimiliano Todisco, Héctor Delgado and Nicholas Evans, in proc. _INTERSPEECH 2016, San Francisco, USA_. [PDF]
+
+* **Integrated spoofing countermeasures and automatic speaker verification: an evaluation on ASVspoof 2015.** Md Sahidullah, Héctor Delgado, Massimiliano Todisco, Hong Yu, Tomi Kinnunen, Nicholas Evans and Zheng-Hua Tan, in proc. _INTERSPEECH 2016, San Francisco, USA_. [PDF][Slides]
+
+* **Utterance verification for text-dependent speaker recognition: a comparative assessment using the RedDots corpus.** Tomi Kinnunen, Md Sahidullah, I. Kukanov, Héctor Delgado, Massimiliano Todisco, A. Sarkar, N. Thomsen, V. Hautamaki, Nicholas Evans, and Zheng-Hua Tan, in proc. _INTERSPEECH 2016, San Francisco, USA_. [PDF]
+
+* **A new feature for automatic speaker verification anti-spoofing: Constant Q Cepstral Coefficients.** Massimiliano Todisco, Héctor Delgado and Nicholas Evans, in proc. _ODYSSEY 2016 – The Speaker and Language Recognition Workshop, Bilbao, Spain_. [PDF]
+
+* **Semi-supervised on-line speaker diarization for meeting data with incremental maximum a-posteriori adaptation.** Giovanni Soldi, Massimiliano Todisco, Héctor Delgado, Christophe Beaugeant and Nicholas Evans, in proc. _ODYSSEY 2016 – The Speaker and Language Recognition Workshop, Bilbao, Spain_. [PDF]
+
+2015
+
+* **Albayzín-2014 evaluation: audio segmentation and classification in broadcast news domains.** Diego Castán, David Tavarez, Paula Lopez-Otero, Javier Franco-Pedroso, Héctor Delgado, Eva Navas, Laura Docio-Fernández, Daniel Ramos, Javier Serrano, Alfonso Ortega and Eduardo Lleida, in _EURASIP Journal on Audio, Speech, and Music Processing_. [PDF]
+
+* **Fast single- and cross-show speaker diarization using binary key speaker modeling.** Héctor Delgado, Xavier Anguera, Corinne Fredouille and Javier Serrano, in _IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)_. [PDF]
+
+* **Speaker diarization and speech recognition in the semi-automatization of audio description: an exploratory study on future possibilities?.** Héctor Delgado, Anna Matamala and Javier Serrano, in _Cadernos de Traduçao_. [PDF]
+
+* **Novel clustering selection criterion for fast binary key speaker diarization.** Héctor Delgado, Xavier Anguera, Corinne Fredouille and Javier Serrano, in proc. _INTERSPEECH 2015, Dresden, Germany_. [PDF]
+
+* **Improved binary key speaker diarization system.** Héctor Delgado, Xavier Anguera, Corinne Fredouille and Javier Serrano, in proc. _European Signal Processing Conference (EUSIPCO), Nice, France_. [PDF]
+
+2014
+
+* **Global speaker clustering towards optimal stopping criterion in binary key speaker diarization.** Héctor Delgado, Xavier Anguera, Corinne Fredouille and Javier Serrano, in proc. _IberSpeech 2014, Las Palmas de Gran Canaria, Spain_. [PDF]
+
+* **Albayzin 2014 Evaluation: TES-UAB Audio Segmentation System.** Héctor Delgado and Javier Serrano, in proc. _IberSpeech 2014, Las Palmas de Gran Canaria, Spain_. [PDF]
+
+* **Towards a complete binary key system for the speaker diarization task.** Héctor Delgado, Corinne Fredouille and Javier Serrano, in proc. _INTERSPEECH 2014, Singapore_. [PDF][Poster]
+
+2012
+
+* **Entitling: A way forward for accessibility.** Marta Miquel-Iriarte, Anna Vilaró, Pilar Orero, Héctor Delgado and Javier Serrano, book chapter in _Eye tracking in audiovisual translation_, 2012.
+
+2011
+
+* **Enhancing Accessibility through Speech Technologies on AAL Telemedicine Services for iTV.** Héctor Delgado, Aitor Rodriguez-Alsina, Antoni Gurguí, Enric Martí, Javier Serrano and Jordi Carrabina, in proc. _Second International Joint Conference on Ambient Intelligence (AmI 2011), Amsterdam, The Netherlands, November 16-18, 2011_. [PDF]
+
+2010
+
+* **Automatic Metadata Extraction from Spoken Content using Speech and Speaker Recognition Techniques.** Héctor Delgado, Javier Serrano and Jordi Carrabina. in proc. _FALA 2010: “VI Jornadas en Tecnología del Habla” and II Iberian SLTech Workshop, Vigo, Spain, 2010_. [PDF]
+
+* **Albayzin Evaluation: Audio Segmentation System at CEPHIS-UAB.** Héctor Delgado, Javier Serrano and Jordi Carrabina, in proc. _FALA 2010: “VI Jornadas en Tecnología del Habla” and II Iberian SLTech Workshop, Vigo, Spain, 2010_. [PDF]
+
+
