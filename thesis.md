@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: PhD Thesis: Fast Cross-Session Speaker Diarization
 ---
 
