@@ -5,7 +5,7 @@ title: PhD Thesis: Fast Cross-Session Speaker Diarization
 
 Get the full manuscript at [tdx.cat](http://www.tdx.cat/handle/10803/309290)
 
-<img src='{{ "/images/KBMTrainingNew.png" | relative_url }}' width="400" />
+<img src='{{ "/images/KBMTrainingNew.png" | relative_url }}' width="800" />
 
 
 ## Abstract
