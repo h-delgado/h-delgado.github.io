@@ -10,7 +10,7 @@ title: Publications
 
 2019
 
-* **I4U Submission to NIST SRE 2018: Leveraging from a Decade of Shared Experiences.** Kong Aik Lee, Ville Hautamäki, Tomi H. Kinnunen, Hitoshi Yamamoto, Koji Okabe, Ville Vestman, Jing Huang, Guohong Ding, Hanwu Sun, Anthony Larcher, Rohan Kumar Das, Haizhou Li, Mickael Rouvier, Pierre-Michel Bousquet, Wei Rao, Qing Wang, Chunlei Zhang, Fahimeh Bahmaninezhad, Héctor Delgado, Massimiliano Todisco, in proc. _INTERSPEECH 2019, Graz, Austria_. [[ISCA]]([https://www.isca-speech.org/archive/pdfs/interspeech_2019/lee19_interspeech.pdf](https://www.isca-speech.org/archive/interspeech_2019/lee19_interspeech.html))
+* **I4U Submission to NIST SRE 2018: Leveraging from a Decade of Shared Experiences.** Kong Aik Lee, Ville Hautamäki, Tomi H. Kinnunen, Hitoshi Yamamoto, Koji Okabe, Ville Vestman, Jing Huang, Guohong Ding, Hanwu Sun, Anthony Larcher, Rohan Kumar Das, Haizhou Li, Mickael Rouvier, Pierre-Michel Bousquet, Wei Rao, Qing Wang, Chunlei Zhang, Fahimeh Bahmaninezhad, Héctor Delgado, Massimiliano Todisco, in proc. _INTERSPEECH 2019, Graz, Austria_. [[ISCA]](https://www.isca-speech.org/archive/interspeech_2019/lee19_interspeech.html)
 
 * **ASVspoof 2019: Future Horizons in Spoofed and Fake Audio Detection.** Massimiliano Todisco, Xin Wang, Ville Vestman, Md. Sahidullah, Héctor Delgado, Andreas Nautsch, Junichi Yamagishi, Nicholas Evans, Tomi Kinnunen, Kong Aik Lee, in proc. _INTERSPEECH 2019, Graz, Austria_. [[ISCA]](https://www.isca-speech.org/archive/interspeech_2019/todisco19_interspeech.html)
 
