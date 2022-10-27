@@ -54,7 +54,7 @@ title: Publications
 
 * **ASVspoof: the automatic speaker verification spoofing and countermeasures challenge.** Zhizheng Wu, Junichi Yamagishi, Tomi Kinnunen, Cemal Hanilçi, Md Sahidullah, Aleksandr Sizov, Nicholas Evans, Massimiliano Todisco and Héctor Delgado, in _IEEE Journal of Selected Topics in Signal Processing (JSTSP)_. [[uef.fi]](https://erepo.uef.fi/handle/123456789/4345)
 
-* **RedDots Replayed: A New Replay Spoofing Attack Corpus for Text-dependent Speaker Verification Research.** Tomi Kinnunen, Md Sahidullah, Mauro Falcone, Luca Costantini, Rosa González Hautamaki, Dennis Thomsen, Achintya Sarkar, Zheng-Hua Tan, Héctor Delgado, Massimiliano Todisco, Nicholas Evans, Ville Hautamäki, Kong Aik Lee, in proc. _ICASSP 2017, New Orleans, USA_. [[ief.fi]](https://erepo.uef.fi/handle/123456789/4364)
+* **RedDots Replayed: A New Replay Spoofing Attack Corpus for Text-dependent Speaker Verification Research.** Tomi Kinnunen, Md Sahidullah, Mauro Falcone, Luca Costantini, Rosa González Hautamaki, Dennis Thomsen, Achintya Sarkar, Zheng-Hua Tan, Héctor Delgado, Massimiliano Todisco, Nicholas Evans, Ville Hautamäki, Kong Aik Lee, in proc. _ICASSP 2017, New Orleans, USA_. [[uef.fi]](https://erepo.uef.fi/handle/123456789/4364)
 
 2016
 
@@ -86,11 +86,11 @@ title: Publications
 
 2014
 
-* **Global speaker clustering towards optimal stopping criterion in binary key speaker diarization.** Héctor Delgado, Xavier Anguera, Corinne Fredouille and Javier Serrano, in proc. _IberSpeech 2014, Las Palmas de Gran Canaria, Spain_. [[Academia.edu]](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=2328223881623541563)
+* **Global speaker clustering towards optimal stopping criterion in binary key speaker diarization.** Héctor Delgado, Xavier Anguera, Corinne Fredouille and Javier Serrano, in proc. _IberSpeech 2014, Las Palmas de Gran Canaria, Spain_. [[Academia.edu]](https://www.academia.edu/download/39665838/Global_Speaker_Clustering_towards_Optima20151103-2605-17d8ou4.pdf)
 
-* **Albayzin 2014 Evaluation: TES-UAB Audio Segmentation System.** Héctor Delgado and Javier Serrano, in proc. _IberSpeech 2014, Las Palmas de Gran Canaria, Spain_. [PDF]
+* **Albayzin 2014 Evaluation: TES-UAB Audio Segmentation System.** Héctor Delgado and Javier Serrano, in proc. _IberSpeech 2014, Las Palmas de Gran Canaria, Spain_. [[Academia.edu]](https://www.academia.edu/download/39665875/Albayzin_2014_Evaluation_TES-UAB_Audio_S20151103-6930-yhwlbd.pdf)
 
-* **Towards a complete binary key system for the speaker diarization task.** Héctor Delgado, Corinne Fredouille and Javier Serrano, in proc. _INTERSPEECH 2014, Singapore_. [PDF][Poster]
+* **Towards a complete binary key system for the speaker diarization task.** Héctor Delgado, Corinne Fredouille and Javier Serrano, in proc. _INTERSPEECH 2014, Singapore_. [[ISCA]](https://www.isca-speech.org/archive/interspeech_2014/delgado14_interspeech.html)
 
 2012
 
@@ -98,12 +98,12 @@ title: Publications
 
 2011
 
-* **Enhancing Accessibility through Speech Technologies on AAL Telemedicine Services for iTV.** Héctor Delgado, Aitor Rodriguez-Alsina, Antoni Gurguí, Enric Martí, Javier Serrano and Jordi Carrabina, in proc. _Second International Joint Conference on Ambient Intelligence (AmI 2011), Amsterdam, The Netherlands, November 16-18, 2011_. [PDF]
+* **Enhancing Accessibility through Speech Technologies on AAL Telemedicine Services for iTV.** Héctor Delgado, Aitor Rodriguez-Alsina, Antoni Gurguí, Enric Martí, Javier Serrano and Jordi Carrabina, in proc. _Second International Joint Conference on Ambient Intelligence (AmI 2011), Amsterdam, The Netherlands, November 16-18, 2011_. [[Academia.edu]](https://www.academia.edu/download/47204767/Enhancing_Accessibility_through_Speech_T20160712-17330-wj3ybp.pdf)
 
 2010
 
-* **Automatic Metadata Extraction from Spoken Content using Speech and Speaker Recognition Techniques.** Héctor Delgado, Javier Serrano and Jordi Carrabina. in proc. _FALA 2010: “VI Jornadas en Tecnología del Habla” and II Iberian SLTech Workshop, Vigo, Spain, 2010_. [PDF]
+* **Automatic Metadata Extraction from Spoken Content using Speech and Speaker Recognition Techniques.** Héctor Delgado, Javier Serrano and Jordi Carrabina. in proc. _FALA 2010: “VI Jornadas en Tecnología del Habla” and II Iberian SLTech Workshop, Vigo, Spain, 2010_. [[Academia.edu]](https://www.academia.edu/download/39483011/Automatic_Metadata_Extraction_from_Spoke20151028-16716-1soxo4t.pdf)
 
-* **Albayzin Evaluation: Audio Segmentation System at CEPHIS-UAB.** Héctor Delgado, Javier Serrano and Jordi Carrabina, in proc. _FALA 2010: “VI Jornadas en Tecnología del Habla” and II Iberian SLTech Workshop, Vigo, Spain, 2010_. [PDF]
+* **Albayzin Evaluation: Audio Segmentation System at CEPHIS-UAB.** Héctor Delgado, Javier Serrano and Jordi Carrabina, in proc. _FALA 2010: “VI Jornadas en Tecnología del Habla” and II Iberian SLTech Workshop, Vigo, Spain, 2010_. [[Academia.edu]](https://www.academia.edu/download/3588514/0087.pdf)
 
 
