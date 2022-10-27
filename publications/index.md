@@ -92,10 +92,6 @@ title: Publications
 
 * **Towards a complete binary key system for the speaker diarization task.** Héctor Delgado, Corinne Fredouille and Javier Serrano, in proc. _INTERSPEECH 2014, Singapore_. [[ISCA]](https://www.isca-speech.org/archive/interspeech_2014/delgado14_interspeech.html)
 
-2012
-
-* **Entitling: A way forward for accessibility.** Marta Miquel-Iriarte, Anna Vilaró, Pilar Orero, Héctor Delgado and Javier Serrano, book chapter in _Eye tracking in audiovisual translation_, 2012.
-
 2011
 
 * **Enhancing Accessibility through Speech Technologies on AAL Telemedicine Services for iTV.** Héctor Delgado, Aitor Rodriguez-Alsina, Antoni Gurguí, Enric Martí, Javier Serrano and Jordi Carrabina, in proc. _Second International Joint Conference on Ambient Intelligence (AmI 2011), Amsterdam, The Netherlands, November 16-18, 2011_. [[ResearchGate]](https://www.researchgate.net/profile/Hector-Delgado-6/publication/221187762_Enhancing_Accessibility_through_Speech_Technologies_on_AAL_Telemedicine_Services_for_iTV/links/5473040f0cf2d67fc035d791/Enhancing-Accessibility-through-Speech-Technologies-on-AAL-Telemedicine-Services-for-iTV.pdf)
