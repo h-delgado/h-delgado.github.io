@@ -3,8 +3,20 @@ layout: page
 title: Publications
 ---
 
+2022
+* **Baseline systems for the first spoofing-aware speaker verification challenge: score and embedding fusion.** Hye-jin Shim, Hemlata Tak, Xuechen Liu, Hee-Soo Heo, Jee-weon Jung, Joon Son Chung, Soo-Whan Chung, Ha-Jin Yu, Bong-Jin Lee, Massimiliano Todisco, Héctor Delgado, Kong Aik Lee, Md Sahidullah, Tomi Kinnunen, Nicholas Evans, in proc. _ODYSSEY 2022 – The Speaker and Language Recognition Workshop, Beijing, China_. [[ISCA]](https://www.isca-speech.org/archive/odyssey_2022/shim22_odyssey.html)
+
+2021
+* **ASVspoof 2021: accelerating progress in spoofed and deepfake speech detection.** Junichi Yamagishi, Xin Wang, Massimiliano Todisco, Md Sahidullah, Jose Patino, Andreas Nautsch, Xuechen Liu, Kong Aik Lee, Tomi Kinnunen, Nicholas Evans, Héctor Delgado, in proc. _ASVspoof 2021 workshop_. [[ISCA]](https://www.isca-speech.org/archive/asvspoof_2021/yamagishi21_asvspoof.html))
+
+* **Benchmarking and challenges in security and privacy for voice biometrics.** Jean-Francois Bonastre, Héctor Delgado, Nicholas Evans, Tomi Kinnunen, Kong Aik Lee, Xuechen Liu, Andreas Nautsch, Paul-Gauthier Noe, Jose Patino, Md Sahidullah, Brij Mohan Lal Srivastava, Massimiliano Todisco, Natalia Tomashenko, Emmanuel Vincent, Xin Wang, Junichi Yamagishi, in proc. _ISCA Symposium on Security & Privacy in Speech Communications_. [[ISCA]](https://www.isca-speech.org/archive/interspeech_2021/kinnunen21_interspeech.html](https://www.isca-speech.org/archive/spsc_2021/bonastre21_spsc.html))
+
+* **Visualizing Classifier Adjacency Relations: A Case Study in Speaker Verification and Voice Anti-Spoofing.** Tomi Kinnunen, Andreas Nautsch, Md. Sahidullah, Nicholas Evans, Xin Wang, Massimiliano Todisco, Héctor Delgado, Junichi Yamagishi, Kong Aik Lee, in proc. _INTERSPEECH 2021, Brno, Czech Republic_. [[ISCA]]([https://www.isca-speech.org/archive/interspeech_2019/lee19_interspeech.html](https://www.isca-speech.org/archive/interspeech_2021/kinnunen21_interspeech.html))
+
+* **ASVspoof 2019: spoofing countermeasures for the detection of synthesized, converted and replayed speech.** Andreas Nautsch, Xin Wang, Nicholas Evans, Tomi Kinnunen, Ville Vestman, Massimiliano Todisco, Héctor Delgado, Md Sahidullah, Junichi Yamagishi, Kong Aik Lee, in _IEEE/ACM Transactions on Audio, Speech and Language._ [[arXiv.org]](https://arxiv.org/abs/2102.05889)
+
 2020
-* **Tandem Assessment of Spoofing Countermeasures and Automatic Speaker Verification: Fundamentals.** Tomi Kinnunen, Héctor Delgado, Nicholas Evans, Kong Aik Lee, Ville Vestman, Andreas Nautsch, Massimiliano Todisco, Xin Wang, Md Sahidullah, Junichi Yamagishi, Douglas A. Reynolds, in _IEEE/ACM Transactions on Audio, Speech and Language._ [[arXiv.org]](https://arxiv.org/abs/2007.05979)
+* **Tandem Assessment of Spoofing Countermeasures and Automatic Speaker Verification: Fundamentals.** Tomi Kinnunen, Héctor Delgado, Nicholas Evans, Kong Aik Lee, Ville Vestman, Andreas Nautsch, Massimiliano Todisco, Xin Wang, Md Sahidullah, Junichi Yamagishi, Douglas A. Reynolds, in _IEEE/ACM Transactions on Biometrics, Behavior, and Identity Science._ [[arXiv.org]](https://arxiv.org/abs/2007.05979)
 
 * **ASVspoof 2019: a large-scale public database of synthetized, converted and replayed speech.** Xin Wang, Junichi Yamagishi, Massimiliano Todisco, Héctor Delgado, Andreas Nautsch, Nicholas Evans, Md Sahidullah, Ville Vestman, Tomi Kinnunen, Kong Aik Lee, Lauri Juvela, Paavo Alku, Yu-Huai Peng, Hsin-Te Hwang, Yu Tsao, Hsin-Min Wang, Sebastien Le Maguer, Markus Becker, Fergus Henderson, Rob Clark, Yu Zhang, Quan Wang, Ye Jia, Kai Onuma, Koji Mushika, Takashi Kaneda, Yuan Jiang, Li-Juan Liu, Yi-Chiao Wu, Wen-Chin Huang, Tomoki Toda, Kou Tanaka, Hirokazu Kameoka, Ingmar Steiner, Driss Matrouf, Jean-Francois Bonastre, Avashna Govender, Srikanth Ronanki, Jing-Xuan Zhang, Zhen-Hua Ling, in _Computer, Speech & Language_. [[arXiv.org]](https://arxiv.org/abs/1911.01601)
 
