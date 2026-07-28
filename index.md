@@ -3,7 +3,6 @@ layout: default
 title: Héctor Delgado, PhD
 ---
 
-<img src='{{ "/images/HD-300x300.jpg" | relative_url }}' width="150" />
 <img src='{{ "/images/Héctor_Delgado_smaller.jpg" | relative_url }}' width="150" />
 
 ## BIO
