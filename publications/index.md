@@ -4,7 +4,7 @@ title: Publications
 ---
 
 2023
-* **ASVspoof 2021: Towards spoofed and deepfake speech detection in the wild.** Xuechen Liu, Xin Wang, Md Sahidullah, Jose Patino, Héctor Delgado, Tomi Kinnunen, Massimiliano Todisco, Junichi Yamagishi, Nicholas Evans, Andreas Nautsch, Kong Aik Lee, in _IEEE/ACM Transactions on Audio, Speech, and Language Processing._ [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/10155166)[[arXiv.org]](https://arxiv.org/abs/2210.02437)
+* **ASVspoof 2021: Towards spoofed and deepfake speech detection in the wild.** Xuechen Liu, Xin Wang, Md Sahidullah, Jose Patino, Héctor Delgado, Tomi Kinnunen, Massimiliano Todisco, Junichi Yamagishi, Nicholas Evans, Andreas Nautsch, Kong Aik Lee, in _IEEE/ACM Transactions on Audio, Speech, and Language Processing._ [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/10155166) [[arXiv.org]](https://arxiv.org/abs/2210.02437)
 
 * **Introduction to voice presentation attack detection and recent advances.** Md Sahidullah, Héctor Delgado, Massimiliano Todisco, Andreas Nautsch, Xin Wang, Tomi Kinnunen, Nicholas Evans, Junichi Yamagishi, Kong-Aik Lee, chapter in _Handbook of Biometric Anti-Spoofing: Presentation Attack Detection and Vulnerability Assessment_, Springer Nature Singapore. [[ISCA]](https://www.isca-speech.org/archive/odyssey_2022/shim22_odyssey.html)
 
