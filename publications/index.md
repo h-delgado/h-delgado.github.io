@@ -7,7 +7,7 @@ title: Publications
 * **Combining SSL Speech Features, Contextual Transformers and Mamba Models for Realistic Audio Spoofing Detection.** Luis Buera, Héctor Delgado, Daniele Colibro, Antonio Miguel, in _IEEE ICASSP 2026, Barcelona, Spain,_ [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/11462814)
 
 
-* **On Deepfake Voice Detection -- It's All in the Presentation.** Héctor Delgado, Giorgio Ramondetti, Emanuele Dalmasso, Gennady Karvitsky, Daniele Colibro, Haydar Talib, in _IEEE ICASSP 2026, Barcelona, Spain,_ [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11460707) [[arXiv.org]](https://arxiv.org/abs/2509.26471)
+* **On Deepfake Voice Detection - It's All in the Presentation.** Héctor Delgado, Giorgio Ramondetti, Emanuele Dalmasso, Gennady Karvitsky, Daniele Colibro, Haydar Talib, in _IEEE ICASSP 2026, Barcelona, Spain,_ [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11460707) [[arXiv.org]](https://arxiv.org/abs/2509.26471)
 
 2025
 * **ASVspoof 5: Design, collection and validation of resources for spoofing, deepfake, and adversarial attack detection using crowdsourced speech.** Xin Wang, Héctor Delgado, Hemlata Tak, Jee-weon Jung, Hye-jin Shim, Massimiliano Todisco, Ivan Kukanov, Xuechen Liu, Md Sahidullah, Tomi Kinnunen, Nicholas Evans, Kong Aik Lee, Junichi Yamagishi, Myeonghun Jeong, Ge Zhu, Yongyi Zang, You Zhang, Soumi Maiti, Florian Lux, Nicolas Müller, Wangyou Zhang, Chengzhe Sun, Shuwei Hou, Siwei Lyu, Sébastien Le Maguer, Cheng Gong, Hanjie Guo, Liping Chen, Vishwanath Singh, in _Computer Speech & Language_ [[ScienceDirect]](https://www.sciencedirect.com/science/article/pii/S0885230825000506) [[arXiv.org]](https://arxiv.org/abs/2502.08857)
