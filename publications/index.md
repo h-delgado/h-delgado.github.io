@@ -23,7 +23,6 @@ title: Publications
 
 * **Introduction to voice presentation attack detection and recent advances.** Md Sahidullah, Héctor Delgado, Massimiliano Todisco, Andreas Nautsch, Xin Wang, Tomi Kinnunen, Nicholas Evans, Junichi Yamagishi, Kong-Aik Lee, chapter in _Handbook of Biometric Anti-Spoofing: Presentation Attack Detection and Vulnerability Assessment_, Springer Nature Singapore. [[arXiv.org]](https://arxiv.org/abs/1901.01085)
 
-* 
 2022
 * **Baseline systems for the first spoofing-aware speaker verification challenge: score and embedding fusion.** Hye-jin Shim, Hemlata Tak, Xuechen Liu, Hee-Soo Heo, Jee-weon Jung, Joon Son Chung, Soo-Whan Chung, Ha-Jin Yu, Bong-Jin Lee, Massimiliano Todisco, Héctor Delgado, Kong Aik Lee, Md Sahidullah, Tomi Kinnunen, Nicholas Evans, in proc. _ODYSSEY 2022 – The Speaker and Language Recognition Workshop, Beijing, China_. [[ISCA]](https://www.isca-speech.org/archive/odyssey_2022/shim22_odyssey.html)
 
